@@ -1,0 +1,17 @@
+{
+  "name": "sway-node-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --wait src/app.js"
+  },
+  "keywords": [],
+  "author": "Prathamesh Mane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "sway-node-backend": "file:"
+  }
+}
